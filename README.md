@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jojivlr)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=backendgabr&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bullas)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
